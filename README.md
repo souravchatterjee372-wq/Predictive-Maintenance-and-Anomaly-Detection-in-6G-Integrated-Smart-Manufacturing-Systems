@@ -44,34 +44,43 @@ Low / Medium / High
 
 ---
 
-## 📈 Key Analysis Performed
-- Average revenue by day of week
-- Transaction count trends
-- Time-based sales patterns
+📈 Key Outputs
+
+Anomaly scores
+Risk levels
+High-risk machine list
+Trend analysis
 - Seasonal trend detection
 - Behavioral interpretation
 
 ---
 
-## 📌 Insights (Example — Replace With Yours)
-- Sales peak during weekends
-- Highest transactions between 6PM–9PM
-- Mid-week shows lowest engagement
-- Monthly growth trend observed
+## 📊 Dashboard (Streamlit)
+
+Features:
+
+Machine-wise anomaly trends
+Risk distribution
+Maintenance alerts
 
 ---
-## 📂 Project Structure
-data/ → raw dataset
-notebooks/ → analysis files
-visuals/ → charts & graphs
-report/ → final insights
+## 🛠️ Tech Stack
+
+Python
+
+Pandas, NumPy
+
+Scikit-learn
+
+Streamlit
 
 ---
 
-## 🚀 How to Run
-1. Download dataset
-2. Open notebook / Excel file
-3. Run analysis cells or review dashboards
+## 📌 Results
+
+Early detection of machine failures
+Reduced downtime
+Improved efficiency
 
 ---
 
