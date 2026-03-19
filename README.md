@@ -93,11 +93,19 @@ streamlit run dashboard/app.py
 
 ---
 
-## 📌 Results
+## 📌 Results & Insights
 
-- Early detection of machine failures
-- Reduced downtime
-- Improved efficiency
+- Early detection of machine anomalies
+- Identification of high-risk machines
+- Reduction in unexpected downtime
+- Improved operational efficiency
+
+## 💡 Business Impact
+
+- Reduced maintenance costs
+- Improved machine reliability
+- Better decision-making using real-time data
+- Increased production efficiency
 
 ---
 
