@@ -9,49 +9,50 @@ This project focuses on detecting machine anomalies and predicting maintenance r
 ---
 
 ## 🎯 Objectives
-- Identify daily, weekly, and monthly sales trends
-- Compare weekday vs weekend performance
-- Analyze peak sales hours
-- Detect upward/downward patterns
-- Generate actionable business insights
+- Understand Machine Behavior
+- Build Baseline Models
+- Detect Anomalies
+- Predict Maintenance Needs
+- Analyze Risk Over Time
+- Utilize 6G Capabilities
+- Reduce Downtime & Cost
+- Improve Manufacturing Efficiency
 
 ---
 
 ## ⚙️ Methodology
 1. Data Preprocessing
 
-Handle missing values
-Normalize data
+- Handle missing values
+- Normalize data
 
 2. Feature Engineering
 
-Sensor deviation
-Error trends
-Instability ratios
+- Sensor deviation
+- Error trends
+- Instability ratios
 
 3. Model Building
 
-Isolation Forest
-Autoencoder (optional)
+- Isolation Forest
+- Autoencoder
 
 4. Anomaly Detection
 
-Detect abnormal patterns
+- Detect abnormal patterns
 
 5. Risk Classification
 
-Low / Medium / High
+- Low / Medium / High
 
 ---
 
 📈 Key Outputs
 
-Anomaly scores
-Risk levels
-High-risk machine list
-Trend analysis
-- Seasonal trend detection
-- Behavioral interpretation
+- Anomaly scores
+- Risk levels
+- High-risk machine list
+- Trend analysis
 
 ---
 
@@ -66,21 +67,18 @@ Maintenance alerts
 ---
 ## 🛠️ Tech Stack
 
-Python
-
-Pandas, NumPy
-
-Scikit-learn
-
-Streamlit
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Streamlit
 
 ---
 
 ## 📌 Results
 
-Early detection of machine failures
-Reduced downtime
-Improved efficiency
+- Early detection of machine failures
+- Reduced downtime
+- Improved efficiency
 
 ---
 
