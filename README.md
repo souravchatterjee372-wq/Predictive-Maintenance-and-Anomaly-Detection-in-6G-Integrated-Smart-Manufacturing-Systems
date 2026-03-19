@@ -1,24 +1,31 @@
-# Sales-Trend-and-Time-Based-Performance-Analysis-for-Afficionado-Coffee-Roasters
-This project provides a clear, evidence-based understanding of when sales occur at Afficionado Coffee Roasters. By uncovering temporal demand patterns across days, hours, and locations, it equips management with actionable insights to improve staffing efficiency, operational planning, and overall retail performance.
+# 📌 Predictive Maintenance & Anomaly Detection in 6G-Integrated Smart Manufacturing Systems
 
-# Predictive Maintenance & Anomaly Detection in 6G Smart Manufacturing
+## 🚀 Project Overview
 
-## 📊 Project Overview
-This project focuses on detecting machine anomalies and predicting maintenance risks in 6G-enabled smart factories using machine learning.
+This project focuses on building an intelligent system for predictive maintenance and anomaly detection in smart manufacturing environments using machine learning and 6G-enabled real-time data.
+
+The system detects early warning signals from sensor data and predicts machine failures before they occur, helping industries reduce downtime and maintenance costs.
 
 ---
 
 ## 🎯 Objectives
-- Understand Machine Behavior
-- Build Baseline Models
-- Detect Anomalies
-- Predict Maintenance Needs
-- Analyze Risk Over Time
-- Utilize 6G Capabilities
-- Reduce Downtime & Cost
-- Improve Manufacturing Efficiency
+
+- Analyze machine sensor data to understand normal behavior
+- Detect anomalies using machine learning techniques
+- Predict potential machine failures in advance
+- Classify machines based on risk levels (Low, Medium, High)
+- Track risk trends over time
+- Develop an interactive dashboard for monitoring
 
 ---
+
+## 🧠 Problem Statement
+
+Manufacturing organizations face:
+
+Unexpected machine breakdowns
+High maintenance and downtime costs
+Difficulty detecting early warning signals in noisy data
 
 ## ⚙️ Methodology
 1. Data Preprocessing
@@ -47,30 +54,42 @@ This project focuses on detecting machine anomalies and predicting maintenance r
 
 ---
 
-📈 Key Outputs
+## 📈 Key Performance Indicators (KPIs)
 
-- Anomaly scores
-- Risk levels
-- High-risk machine list
-- Trend analysis
+- Anomaly Score
+- Maintenance Risk Level
+- High-Risk Machine List
+- Early Warning Lead Time
+- Downtime Prevention Index
 
 ---
 
-## 📊 Dashboard (Streamlit)
-
+## 📊 Streamlit Dashboard
 Features:
 
-Machine-wise anomaly trends
-Risk distribution
-Maintenance alerts
+- Predictive maintenance overview
+- Machine-wise anomaly trends
+- Risk distribution visualization
+- Maintenance alert panel
+- Historical risk analysis
 
 ---
 ## 🛠️ Tech Stack
 
-- Python
-- Pandas, NumPy
+- Programming: Python
+- Libraries: Pandas, NumPy
 - Scikit-learn
-- Streamlit
+- Dashboard: Streamlit
+
+## 📦 Installation & Usage
+
+1. Clone the Repository
+git clone https://github.com/your-username/Predictive-Maintenance-6G.git
+cd Predictive-Maintenance-6G
+2. Install Dependencies
+pip install -r requirements.txt
+3. Run Dashboard
+streamlit run dashboard/app.py
 
 ---
 
