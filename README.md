@@ -84,7 +84,7 @@ Features:
 ## 📦 Installation & Usage
 
 1. Clone the Repository
-git clone https://github.com/your-username/Predictive-Maintenance-6G.git
+git clone https://github.com/souravchatterjee372-wq/Predictive-Maintenance-and-Anomaly-Detection-in-6G-Integrated-Smart-Manufacturing-Systems.git
 cd Predictive-Maintenance-6G
 2. Install Dependencies
 pip install -r requirements.txt
